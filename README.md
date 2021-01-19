@@ -1,7 +1,7 @@
 # Regenerative-Agriculture
 Data Analytics on Soil Data
 
-This repository holds 2 ongoing projects around regenerative agriculture soil data. 
+This repository holds 2 ongoing projects around regenerative agriculture soil data both in Python.
 
 Regen Ag - Soil Analysis by cover crop types is a brief analysis on a small dataset on covercrops
 
