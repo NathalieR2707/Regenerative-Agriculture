@@ -9,4 +9,4 @@ Farm Soil Analysis is an analysis on soil data from a farm in North Carolina. Al
 
 Soil Test Dataset Large Jan 21 - EDA and UL : this is the project I am working on at the moment. Largest dataset of 40K+ soil test data.
 
-It also contains a document containing all the possible measurements that can be taken on a farm to measure the inpact of regeneration.
+It also contains a document containing all the possible measurements outside of standard soil tests,  that can be taken on a farm to measure the inpact of regeneration.
